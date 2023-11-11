@@ -1,14 +1,43 @@
 {
   "files": {
-    "main.css": "/fake-coin-local/static/css/main.f855e6bc.css",
-    "main.js": "/fake-coin-local/static/js/main.e63c8d64.js",
-    "static/media/logo.svg": "/fake-coin-local/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/fake-coin-local/static/css/main.f50ea097.css",
+    "main.js": "/fake-coin-local/static/js/main.263d887b.js",
+    "static/media/reviews-bg.png": "/fake-coin-local/static/media/reviews-bg.8cd9747a8ee209a05f3f.png",
+    "static/media/hero-image.png": "/fake-coin-local/static/media/hero-image.e8a90086d293c4fdfcba.png",
+    "static/media/rug-pull-bg.png": "/fake-coin-local/static/media/rug-pull-bg.95638a779f326dcc1fc7.png",
+    "static/media/round-bg-right.png": "/fake-coin-local/static/media/round-bg-right.9465fe4e5c0f91a59e53.png",
+    "static/media/additional-bg.png": "/fake-coin-local/static/media/additional-bg.cdd0150d7ddce8628fa4.png",
+    "static/media/round-bg-left.png": "/fake-coin-local/static/media/round-bg-left.2183c9bd3f3e880c7d8e.png",
+    "static/media/how-to-buy-bg.png": "/fake-coin-local/static/media/how-to-buy-bg.2b500668cb06190c9a32.png",
+    "static/media/unknown1.svg": "/fake-coin-local/static/media/unknown1.a8d1b27e10c62e8b98a40cf5e22c9f14.svg",
+    "static/media/about-us-bg.png": "/fake-coin-local/static/media/about-us-bg.f5f7886be6931f182815.png",
+    "static/media/about-us-hero.png": "/fake-coin-local/static/media/about-us-hero.8344c18d1e840ae4bd34.png",
+    "static/media/uniswap.svg": "/fake-coin-local/static/media/uniswap.c6396a3727f1a02ebabe4b5c52bccf31.svg",
+    "static/media/rug-pull-hero2.png": "/fake-coin-local/static/media/rug-pull-hero2.e0241a0ea115ddc4aa8d.png",
+    "static/media/marquee.png": "/fake-coin-local/static/media/marquee.83ee17aedd5b56063973.png",
+    "static/media/token-bg.png": "/fake-coin-local/static/media/token-bg.e8ad67f2480f5cacf68d.png",
+    "static/media/unknown3.svg": "/fake-coin-local/static/media/unknown3.02b189666599b7d05642380208121850.svg",
+    "static/media/pepe.svg": "/fake-coin-local/static/media/pepe.14e4beb06a5ef2628877921d4d16889d.svg",
+    "static/media/MonumentExtended-Regular.otf": "/fake-coin-local/static/media/MonumentExtended-Regular.db74f7a563ec017311bc.otf",
+    "static/media/eth-coin.svg": "/fake-coin-local/static/media/eth-coin.67ad544752d8c1dafd51bce11eb128e6.svg",
+    "static/media/wallet.svg": "/fake-coin-local/static/media/wallet.9b04e9fb208a9a25109e8a7729ed46bf.svg",
+    "static/media/discord.svg": "/fake-coin-local/static/media/discord.0947d4e8b9c6ef8e3fcd42ab61b837fc.svg",
+    "static/media/unknown2.svg": "/fake-coin-local/static/media/unknown2.4d107acf5f2cbfa89b2f01f9d0ef23ce.svg",
+    "static/media/telegram.svg": "/fake-coin-local/static/media/telegram.0a1e4026f5f5b1e15fb2c98bc3bdffe5.svg",
+    "static/media/twitter-blue.svg": "/fake-coin-local/static/media/twitter-blue.317279006370e4bb9963aa5521fd6d7f.svg",
+    "static/media/unknown.svg": "/fake-coin-local/static/media/unknown.e71b34801a87d836ef6c7221ac7f3147.svg",
+    "static/media/twitter.svg": "/fake-coin-local/static/media/twitter.12852138e47b0cf3a82f9012049c9581.svg",
+    "static/media/additional-twitter.svg": "/fake-coin-local/static/media/additional-twitter.69c1153d491446bd737a1627fdc5e697.svg",
+    "static/media/connector.svg": "/fake-coin-local/static/media/connector.f9bb50bbc2e210290006.svg",
     "index.html": "/fake-coin-local/index.html",
-    "main.f855e6bc.css.map": "/fake-coin-local/static/css/main.f855e6bc.css.map",
-    "main.e63c8d64.js.map": "/fake-coin-local/static/js/main.e63c8d64.js.map"
+    "static/media/share.svg": "/fake-coin-local/static/media/share.b115d02ec4ea39b5bb946b52f18716f0.svg",
+    "static/media/additional-telegram.svg": "/fake-coin-local/static/media/additional-telegram.89162290ed1a4bffc533efe38743d794.svg",
+    "static/media/arrow.svg": "/fake-coin-local/static/media/arrow.40f15488976380f35f806f8226caeebe.svg",
+    "main.f50ea097.css.map": "/fake-coin-local/static/css/main.f50ea097.css.map",
+    "main.263d887b.js.map": "/fake-coin-local/static/js/main.263d887b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.e63c8d64.js"
+    "static/css/main.f50ea097.css",
+    "static/js/main.263d887b.js"
   ]
 }
