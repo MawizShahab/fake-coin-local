@@ -1,3 +1,4 @@
+import FAQ from "./Faq";
 import AboutUs from "./AboutUs";
 import Additional from "./Additional";
 import AdditionalContent from "./AdditionalContent";
@@ -8,6 +9,8 @@ import HowToBuy from "./HowToBuy";
 import Marquee from "./Marquee";
 import Reviews from "./Reviews";
 import RugPull from "./RugPull";
+import Footer from "./Footer";
+// import UniswapWidget from "./UniswapWidget";
 
 function App() {
   return (
@@ -27,6 +30,9 @@ function App() {
       <Additional />
       <Reviews />
       <HowToBuy />
+      {/* <UniswapWidget /> */}
+      <FAQ />
+      <Footer />
     </div>
   );
 }

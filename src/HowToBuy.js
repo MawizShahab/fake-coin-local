@@ -4,11 +4,15 @@ import Wallet from "./images/icons/wallet.svg";
 import Eth from "./images/icons/eth-coin.svg";
 import Uniswap from "./images/icons/uniswap.svg";
 import Pepe from "./images/icons/pepe.svg";
+import Layer from "./images/layer.png";
 
 const HowToBuy = () => {
   return (
     <div className="how-to-buy">
       <div className="how-to-buy-container">
+        <div className="layer">
+          <img src={Layer} alt="layer" />
+        </div>
         <div className="buy-title">
           <p>How To Buy?</p>
         </div>
