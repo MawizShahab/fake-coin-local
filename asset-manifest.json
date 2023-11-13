@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fake-coin-local/static/css/main.f50ea097.css",
-    "main.js": "/fake-coin-local/static/js/main.263d887b.js",
+    "main.css": "/fake-coin-local/static/css/main.8509b6d8.css",
+    "main.js": "/fake-coin-local/static/js/main.098b3d9e.js",
     "static/media/reviews-bg.png": "/fake-coin-local/static/media/reviews-bg.8cd9747a8ee209a05f3f.png",
     "static/media/hero-image.png": "/fake-coin-local/static/media/hero-image.e8a90086d293c4fdfcba.png",
     "static/media/rug-pull-bg.png": "/fake-coin-local/static/media/rug-pull-bg.95638a779f326dcc1fc7.png",
@@ -10,10 +10,12 @@
     "static/media/round-bg-left.png": "/fake-coin-local/static/media/round-bg-left.2183c9bd3f3e880c7d8e.png",
     "static/media/how-to-buy-bg.png": "/fake-coin-local/static/media/how-to-buy-bg.2b500668cb06190c9a32.png",
     "static/media/unknown1.svg": "/fake-coin-local/static/media/unknown1.a8d1b27e10c62e8b98a40cf5e22c9f14.svg",
+    "static/media/footer-bg.png": "/fake-coin-local/static/media/footer-bg.1a0a2cc8fe6e295240dc.png",
     "static/media/about-us-bg.png": "/fake-coin-local/static/media/about-us-bg.f5f7886be6931f182815.png",
     "static/media/about-us-hero.png": "/fake-coin-local/static/media/about-us-hero.8344c18d1e840ae4bd34.png",
     "static/media/uniswap.svg": "/fake-coin-local/static/media/uniswap.c6396a3727f1a02ebabe4b5c52bccf31.svg",
     "static/media/rug-pull-hero2.png": "/fake-coin-local/static/media/rug-pull-hero2.e0241a0ea115ddc4aa8d.png",
+    "static/media/footer-logo.svg": "/fake-coin-local/static/media/footer-logo.02f8ee5dcddbfe7547f54f3f354372ec.svg",
     "static/media/marquee.png": "/fake-coin-local/static/media/marquee.83ee17aedd5b56063973.png",
     "static/media/token-bg.png": "/fake-coin-local/static/media/token-bg.e8ad67f2480f5cacf68d.png",
     "static/media/unknown3.svg": "/fake-coin-local/static/media/unknown3.02b189666599b7d05642380208121850.svg",
@@ -26,18 +28,21 @@
     "static/media/telegram.svg": "/fake-coin-local/static/media/telegram.0a1e4026f5f5b1e15fb2c98bc3bdffe5.svg",
     "static/media/twitter-blue.svg": "/fake-coin-local/static/media/twitter-blue.317279006370e4bb9963aa5521fd6d7f.svg",
     "static/media/unknown.svg": "/fake-coin-local/static/media/unknown.e71b34801a87d836ef6c7221ac7f3147.svg",
+    "static/media/footer-discord.svg": "/fake-coin-local/static/media/footer-discord.55f9ffe83f73f70065fae129da788923.svg",
     "static/media/twitter.svg": "/fake-coin-local/static/media/twitter.12852138e47b0cf3a82f9012049c9581.svg",
+    "static/media/footer-twitter.svg": "/fake-coin-local/static/media/footer-twitter.ba42134611c672a975d2db1e20b51d9f.svg",
     "static/media/additional-twitter.svg": "/fake-coin-local/static/media/additional-twitter.69c1153d491446bd737a1627fdc5e697.svg",
+    "static/media/footer-telegram.svg": "/fake-coin-local/static/media/footer-telegram.3889af8f8d8ccdc044b2542e3eacfaae.svg",
     "static/media/connector.svg": "/fake-coin-local/static/media/connector.f9bb50bbc2e210290006.svg",
     "index.html": "/fake-coin-local/index.html",
     "static/media/share.svg": "/fake-coin-local/static/media/share.b115d02ec4ea39b5bb946b52f18716f0.svg",
     "static/media/additional-telegram.svg": "/fake-coin-local/static/media/additional-telegram.89162290ed1a4bffc533efe38743d794.svg",
     "static/media/arrow.svg": "/fake-coin-local/static/media/arrow.40f15488976380f35f806f8226caeebe.svg",
-    "main.f50ea097.css.map": "/fake-coin-local/static/css/main.f50ea097.css.map",
-    "main.263d887b.js.map": "/fake-coin-local/static/js/main.263d887b.js.map"
+    "main.8509b6d8.css.map": "/fake-coin-local/static/css/main.8509b6d8.css.map",
+    "main.098b3d9e.js.map": "/fake-coin-local/static/js/main.098b3d9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f50ea097.css",
-    "static/js/main.263d887b.js"
+    "static/css/main.8509b6d8.css",
+    "static/js/main.098b3d9e.js"
   ]
 }
