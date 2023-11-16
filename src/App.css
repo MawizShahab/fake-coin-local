@@ -986,3 +986,11 @@ a.buy-now span {
     border: 0;
   }
 }
+
+@media screen and (min-width: 768px) {
+  body {
+    max-width: 1728px;
+    margin: auto;
+    background: #060606;
+  }
+}
