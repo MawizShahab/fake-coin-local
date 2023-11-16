@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fake-coin-local/static/css/main.8509b6d8.css",
+    "main.css": "/fake-coin-local/static/css/main.61a3a0f9.css",
     "main.js": "/fake-coin-local/static/js/main.098b3d9e.js",
     "static/media/reviews-bg.png": "/fake-coin-local/static/media/reviews-bg.8cd9747a8ee209a05f3f.png",
     "static/media/hero-image.png": "/fake-coin-local/static/media/hero-image.e8a90086d293c4fdfcba.png",
@@ -38,11 +38,11 @@
     "static/media/share.svg": "/fake-coin-local/static/media/share.b115d02ec4ea39b5bb946b52f18716f0.svg",
     "static/media/additional-telegram.svg": "/fake-coin-local/static/media/additional-telegram.89162290ed1a4bffc533efe38743d794.svg",
     "static/media/arrow.svg": "/fake-coin-local/static/media/arrow.40f15488976380f35f806f8226caeebe.svg",
-    "main.8509b6d8.css.map": "/fake-coin-local/static/css/main.8509b6d8.css.map",
+    "main.61a3a0f9.css.map": "/fake-coin-local/static/css/main.61a3a0f9.css.map",
     "main.098b3d9e.js.map": "/fake-coin-local/static/js/main.098b3d9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8509b6d8.css",
+    "static/css/main.61a3a0f9.css",
     "static/js/main.098b3d9e.js"
   ]
 }
